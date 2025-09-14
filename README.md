@@ -3,4 +3,4 @@ This program was written as part of an assignment in the course Real-Time System
 Key features:
 - Real-time balancing using complementary filtering and state feedback control.
 - Embedded C++ program running on Arduino-compatible hardware.
-- Python GUI for live plotting of motor voltage, tilt angle, angular velocity, position, and velocity.
+- Python GUI for live plotting of states and user input.
